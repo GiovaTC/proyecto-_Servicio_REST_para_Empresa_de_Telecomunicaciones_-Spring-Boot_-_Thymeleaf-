@@ -2,6 +2,12 @@
 
 ---
 
+👉 http://localhost:8080/api/employees
+
+👉 http://localhost:8080/api/registrations
+
+👉 http://localhost:8080/api/installations
+
 ## Descripción
 Proyecto Java (Spring Boot) listo para abrir en IntelliJ que implementa:
 - API REST para gestionar empleados, registros de empresa e instalaciones.
